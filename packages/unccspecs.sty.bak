@@ -543,24 +543,21 @@ REFERENCES
 {\thebodysubsection}
 {1.5em}{\normalfont\mdseries}
 [\setcounter{bodysubsubsection}{0}\setcounter{bodysubsubsubsection}{0}] %\setfigurecounters]
-%\titlespacing{\bodysubsection}{0pt}{.0625in}{.0625in}
-\titlespacing{\bodysubsection}{0pt}{0in}{0in}
+\titlespacing{\bodysubsection}{0pt}{.0625in}{.0625in}
+
 
 
 % Format \bodysubsubsection command
 \titleformat{\bodysubsubsection}[block]{\normalfont\mdseries\centering}
 {\thebodysubsubsection}
 {1.5em}{\normalfont\mdseries}[\setcounter{bodysubsubsubsection}{0}] %[\setfigurecounters]
-%\titlespacing{\bodysubsubsection}{0pt}{.0625in}{.0625in}
-\titlespacing{\bodysubsubsection}{0pt}{0in}{0in}
+\titlespacing{\bodysubsubsection}{0pt}{.0625in}{.0625in}
 
 % Format \bodysubsubsubsection command
 \titleformat{\bodysubsubsubsection}[block]{\normalfont\mdseries\centering}
 {\thebodysubsubsubsection}
 {1.5em}{\normalfont\mdseries} %[\setfigurecounters]
-%\titlespacing{\bodysubsubsubsection}{0pt}{.0625in}{.0625in}
-\titlespacing{\bodysubsubsection}{0pt}{0in}{0in}
-
+\titlespacing{\bodysubsubsubsection}{0pt}{.0625in}{.0625in}
 
 % The following commands format the table of contents (from titletoc package).
 % Note: the toc formatting for chapter below will be used for formatting the
